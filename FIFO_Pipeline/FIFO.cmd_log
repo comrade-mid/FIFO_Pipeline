@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Vivando_Projects/CMPE125_lab4/FIFO.xst" -ofn "D:/Vivando_Projects/CMPE125_lab4/FIFO.syr" 
+xst -intstyle ise -ifn "D:/Vivando_Projects/CMPE125_lab4/FIFO.xst" -ofn "D:/Vivando_Projects/CMPE125_lab4/FIFO.syr" 
